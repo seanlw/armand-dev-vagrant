@@ -1,0 +1,12 @@
+armand:
+  host: localhost:3000
+
+hybridge:
+  filesystem: /vagrant/data_store
+  aspace_frontend_url: http://fatest.lib.uh.edu
+
+greens:
+  base_url: http://idtest.lib.uh.edu/
+  endpoint: http://idtest.lib.uh.edu/api/v1/
+  prefix: do
+  api_key: 1234
